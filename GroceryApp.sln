@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryApp", "GroceryApp\GroceryApp.csproj", "{346C3799-66EE-47CA-9B76-928DCE74BC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryApplication", "..\GroceryApps\GroceryApplication\GroceryApplication.csproj", "{B92EE19C-F887-4775-A333-923640192DF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{346C3799-66EE-47CA-9B76-928DCE74BC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346C3799-66EE-47CA-9B76-928DCE74BC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346C3799-66EE-47CA-9B76-928DCE74BC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92EE19C-F887-4775-A333-923640192DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92EE19C-F887-4775-A333-923640192DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92EE19C-F887-4775-A333-923640192DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92EE19C-F887-4775-A333-923640192DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
